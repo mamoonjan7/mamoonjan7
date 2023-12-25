@@ -1,3 +1,4 @@
+![Logo](https://github-readme-stats.vercel.app/api?username=mamoonjan7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 # Hi there! 👋 I'm Muhammad Mamoon Jan
 
 ## Data Analyst | Coding Instructor | Prompt Engineer
@@ -70,5 +71,5 @@ I'm a seasoned Data Analyst with expertise in Python, SQL, and data visualizatio
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mamoonjan7/). Let's collaborate and create! 🚀
 
-![Logo](https://github-readme-stats.vercel.app/api?username=mamoonjan7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 
