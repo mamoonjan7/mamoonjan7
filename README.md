@@ -1,7 +1,7 @@
 ![Logo](https://github-readme-stats.vercel.app/api?username=mamoonjan7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 # Hi there! 👋 I'm Muhammad Mamoon Jan
 
-## Data Analyst | Coding Instructor | Prompt Engineer
+## Data Analyst | Data Scientist | Prompt Engineer
 
 📧 Email: kollmemrxx@gmail.com | 📱 Phone: +91 8825024965 | 🌐 [LinkedIn](https://www.linkedin.com/in/mamoonjan7/)
 
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a seasoned Data Analyst with expertise in Python, SQL, and data visualization tools. Skilled in data cleaning, statistical analysis, and hypothesis testing, I uncover actionable insights to drive informed decision-making. My background includes business analysis, optimization, and effective communication of complex findings.
+I'm a seasoned Data Analyst and Data Scientist with expertise in Python, SQL, and data visualization tools. Skilled in data cleaning, statistical analysis, and hypothesis testing, I uncover actionable insights to drive informed decision-making. My background includes business analysis, optimization, and effective communication of complex findings.
 
 ---
 
