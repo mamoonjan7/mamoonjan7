@@ -9,7 +9,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a seasoned Data Analyst and Data Scientist with expertise in Python, SQL, and data visualization tools. Skilled in data cleaning, statistical analysis, and hypothesis testing, I uncover actionable insights to drive informed decision-making. My background includes business analysis, optimization, and effective communication of complex findings.
+Senior Data Scientist  with 7+ years of experience building production-grade AI systems, large-scale data platforms, and Generative AI applications.
+Specialized in LLMs, Agentic AI workflows, Prompt Engineering, and Retrieval-Augmented Generation (RAG), with hands-on experience across OpenAI (GPT), Anthropic Claude, Gemini, and open-source models via Ollama.
+Strong expertise in distributed data processing (PySpark, Databricks), real-time pipelines, and GPU-accelerated systems, delivering scalable, low-latency solutions handling millions of data points daily across AutoTech, FinTech, and enterprise domains.
 
 ---
 
