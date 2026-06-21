@@ -8,7 +8,7 @@
 
 # 👨‍💻 About Me
 
-I'm an Enterprise Solution Architect, Senior Data Engineer, and AI Engineer with 6+ years of experience designing and delivering production-grade data platforms, AI-powered systems, distributed applications, and cloud-native architectures.
+I'm an Enterprise Solution Architect, Senior Data Engineer, and AI Engineer with 7+ years of experience designing and delivering production-grade data platforms, AI-powered systems, distributed applications, and cloud-native architectures.
 
 Over the years, I have:
 
